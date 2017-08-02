@@ -1,5 +1,5 @@
 {
-    "name": "bensquire/curl",
+    "name": "we-are-futureproofs-ltd/curl",
     "type": "library",
     "description": "A simple PHP curl wrapper.",
     "keywords": [
@@ -7,18 +7,18 @@
         "php",
         "wrapper"
     ],
-    "homepage": "https://github.com/bensquire/curl",
+    "homepage": "https://github.com/we-are-futureproofs-ltd/curl",
     "license": "MIT",
     "authors": [
         {
             "name": "Ben Squire",
             "email": "b.squire@gmail.com",
-            "homepage": "https://github.com/bensquire/curl"
+            "homepage": "https://github.com/we-are-futureproofs-ltd/curl"
         }
     ],
     "support": {
-        "issues": "https://github.com/bensquire/curl/issues",
-        "wiki": "https://github.com/bensquire/curl/wiki"
+        "issues": "https://github.com/we-are-futureproofs-ltd/curl/issues",
+        "wiki": "https://github.com/we-are-futureproofs-ltd/curl/wiki"
     },
     "require": {
         "php": ">=5.3.0",
